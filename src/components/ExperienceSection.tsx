@@ -19,8 +19,8 @@ const experiences = [
   // },
     {
     company: "Face aux Risques SA",
-    role: "Ingénieur DevOps",
-    period: "Sept 2024 — Sept 2025",
+    role: "Ingénieur Fullstack/DevOps",
+    period: "Août 2024 — Present",
     location: "France",
     highlights: [
       "Modernisation infrastructure IT avec automatisation déploiements et processus métiers",
@@ -65,20 +65,20 @@ const experiences = [
     ],
     stack: ["Java", "Spring Boot", ".NET", "Angular", "React Native", "Kafka", "Docker"],
   },
-  {
-    company: "Société Générale",
-    role: "Développeur Full Stack (Node.js / React)",
-    period: "Juin 2023 — Jan 2024",
-    location: "France",
-    highlights: [
-      "Développement fullstack architecture microservices Node.js/Express + React/TypeScript",
-      "Optimisation performances : réduction temps chargement de 40%",
-      "Conception microservices scalables avec MongoDB",
-      "Augmentation engagement utilisateurs de 25%",
-      "Tests unitaires et d'intégration, revues de code",
-    ],
-    stack: ["Node.js", "Express", "MongoDB", "React", "TypeScript", "API REST"],
-  },
+  // {
+  //   company: "Société Générale",
+  //   role: "Développeur Full Stack (Node.js / React)",
+  //   period: "Juin 2023 — Jan 2024",
+  //   location: "France",
+  //   highlights: [
+  //     "Développement fullstack architecture microservices Node.js/Express + React/TypeScript",
+  //     "Optimisation performances : réduction temps chargement de 40%",
+  //     "Conception microservices scalables avec MongoDB",
+  //     "Augmentation engagement utilisateurs de 25%",
+  //     "Tests unitaires et d'intégration, revues de code",
+  //   ],
+  //   stack: ["Node.js", "Express", "MongoDB", "React", "TypeScript", "API REST"],
+  // },
   {
     company: "Orange Cameroun",
     role: "Ingénieur Développeur Logiciel",
@@ -100,7 +100,7 @@ const experiences = [
     location: "Cameroun",
     highlights: [
       "Plateforme SMS groupés Laravel + Vue.js",
-      "Migration PHP 5 → PHP 8 avec refactoring code legacy",
+      "Migration PHP 5 vers PHP 8 avec refactoring code legacy",
       "Système queues (Laravel Queues + Redis) traitement asynchrone",
       "Intégration APIs SMS (Twilio, Nexmo) et paiement (Stripe, PayPal)",
       "Scalabilité : support 10K+ utilisateurs simultanés",

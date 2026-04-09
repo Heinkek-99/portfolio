@@ -50,17 +50,8 @@ const projects = [
     // description: "Application complète de gestion scolaire : élèves, notes, présences, communication parents-école avec interface desktop moderne.",
     impact: "Centralisation des données, gain de temps administratif",    
     stack: ["C#", ".NET Core", "WPF", "SQL Server", "Entity Framework"],
-    demo: null,
-  },
-    {
-    title: "Migration Legacy → Cloud-Native",
-    category: "C# / .NET",
-    problem: "15 applications legacy .NET Framework freinaient l'innovation et coûtaient cher en infrastructure.",
-    solution: "Migration vers .NET 6/7 + containerisation Docker/K8s avec CI/CD automatisé.",
-    impact: "Zéro downtime, -35% coûts infra, couverture tests >80%",
-    stack: ["C#", ".NET Core", "Docker", "Kubernetes", "Azure DevOps"],
-    demo: null,
-  },
+    demo: "https://schoolink-rho.vercel.app/",
+  }
 ];
 
 const ProjectsSection = () => {

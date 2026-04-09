@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { ArrowDown, Github, Linkedin, Mail } from "lucide-react";
 
 const stats = [
-  { value: "4+", label: "Années d'expérience" },
+  { value: "3+", label: "Années d'expérience" },
   { value: "5", label: "Expériences pro" },
   { value: "40%", label: "Amélioration perfs" },
   { value: "15+", label: "Technologies" },
